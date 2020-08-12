@@ -26,7 +26,8 @@ Desenvolver um serviço que seja capaz de gerar um lançamento de horas.
 1. Realizar `fork` deste projeto.
 2. Desenvolver em cima do seu `fork`.
 3. Após finalizar, realizar o `pull request`.
-4. Fique à vontade para perguntar qualquer dúvida aos recrutadores.
+4. Atualize esse README.md com sua identificação no fim do arquivo
+5. Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 
 #### E por fim:
 - Gostaríamos de ver o uso do controle de versão.
@@ -40,3 +41,7 @@ Desenvolver um serviço que seja capaz de gerar um lançamento de horas.
 - Automação de testes - unitários e integração. 
 - Configurar o Swagger para termos acesso a documentação da API.
 - É de suma importância se utilizar das melhores práticas para um projeto seguro e organizado, como a utilização de controllers, services, factory, middlewares, controle de exceções, utilização de um ORM ou MicroORM (Object Relational Mapper) para operações de banco de dados.
+
+#### Identificação:
+Nome: <br/>
+E-mail: 
