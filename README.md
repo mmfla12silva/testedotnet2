@@ -41,6 +41,7 @@ Desenvolver um serviço que seja capaz de gerar um lançamento de horas.
 - Automação de testes - unitários e integração. 
 - Configurar o Swagger para termos acesso a documentação da API.
 - É de suma importância se utilizar das melhores práticas para um projeto seguro e organizado, como a utilização de controllers, services, factory, middlewares, controle de exceções, utilização de um ORM ou MicroORM (Object Relational Mapper) para operações de banco de dados.
+- Criar um client WEB para consumir essa API 
 
 #### Identificação:
 Nome: <br/>
