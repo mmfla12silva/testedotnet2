@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IBC01\\source\\repos\\MMTesteDotNet2\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\IBC01\\Source\\Repos\\testedotnet2_mm\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\IBC01\\source\\repos\\MMTesteDotNet2\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\IBC01\\Source\\Repos\\testedotnet2_mm\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\IBC01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IBC01\\source\\repos\\MMTesteDotNet2\\Application\\obj\\",
+      "outputPath": "C:\\Users\\IBC01\\Source\\Repos\\testedotnet2_mm\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IBC01\\AppData\\Roaming\\NuGet\\NuGet.Config",

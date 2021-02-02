@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wq1wzlpJENdfMGTnYyulWp9j9T+UYFBuFiwLYsckPSHEI7VtiNj2XGFlvV1mBs5WSP55pOtwbAotf2b9V9NJPw==",
+  "dgSpecHash": "cpt8sd0HksxtWK2jipqSqhx14qFF/0e9hrHzOlMSbs1SauPb11qrcJu0iL4QPHP76BqY/hEjoe8KWkAqPQ9ERg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IBC01\\source\\repos\\MMTesteDotNet2\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\IBC01\\Source\\Repos\\testedotnet2_mm\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
